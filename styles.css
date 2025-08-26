@@ -1,11 +1,6 @@
-.testimonials {
-  padding: 40px;
+.testimonial {
+  padding: 10px;
   font-family: Arial, sans-serif;
-}
-
-.testimonials h2 {
-  font-size: 28px;
-  margin-bottom: 20px;
 }
 
 .testimonial {
